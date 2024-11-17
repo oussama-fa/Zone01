@@ -24,11 +24,6 @@ Zone01 Pool is an opportunity for programmers to hone their skills through struc
 2. [Features](#features)
 3. [Prerequisites](#prerequisites)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Examples](#examples)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
 
 ---
 
