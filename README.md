@@ -55,15 +55,8 @@ Zone01 Pool is an opportunity for programmers to hone their skills through struc
 
 ## Installation
 
-Clone the repository using the following command:
+- Clone the repository using the following command:
 
-```bash
-git clone https://github.com/oussama-fa/Zone01.git
-cd Zone01
-
-
-### Instructions:
-1. Add the `zone01.png` and `go.png` image files to your repository at the root level.
-2. Commit the updated `README.md` along with the images to make them render properly on GitHub.
-
-This version now includes a **Contact** section with email and "oussama05farah@gmail.com". Let me know if you need more adjustments!
+	```bash
+	git clone https://github.com/oussama-fa/Zone01.git
+	cd Zone01
